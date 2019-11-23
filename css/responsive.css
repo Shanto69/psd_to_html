@@ -1,0 +1,22 @@
+@media all and (max-width: 1284px){
+	.services-boxes .box h2{
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 20px;
+	}
+	.services-boxes .box>p{
+		font-size: 15px;
+	}
+}
+@media all and (max-width: 992px){
+	.services-boxes .box h2{
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 18px;
+	}
+	.services-boxes .box>p{
+		font-size: 15px;
+	}
+}
